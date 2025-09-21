@@ -1,0 +1,17 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+     
+}
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid #000;
+    border-radius: 9px;
+    cursor: pointer;
+        width: 70px;
+}
+.row{
+    margin: 7px 0;
+}
